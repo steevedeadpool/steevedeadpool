@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steevedeadpool
-- 👀 I’m interested in ... PYTHON
-- 🌱 I’m currently learning ... PYTHON
-- 💞️ I’m looking to collaborate on ... PYTHON
+- 👀 I’m interested in ... javascript and site making
+- 🌱 I’m currently learning ... javascript
+- 💞️ I’m looking to collaborate on ... python/js
 - 📫 How to reach me ... DISCROD : STEEVEDEADPOOL
 
 <!---
