@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... javascript and website making
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... js
-- 📫 How to reach me ... DISCROD : STEEVEDEADPOOL
+- 📫 How to reach me ... Discord : STEEVEDEADPOOL
 
 <!---
 steevedeadpool/steevedeadpool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
