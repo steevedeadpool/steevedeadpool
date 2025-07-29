@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @steevedeadpool
-- 👀 I’m interested in ... javascript and website making
+- 👀 I’m interested in ... Minecraft development
 - 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on ... js
 - 📫 How to reach me ... Discord : STEEVEDEADPOOL
